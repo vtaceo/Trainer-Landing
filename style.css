@@ -271,6 +271,11 @@ p {
     }
 
 
+    .landing-2 .text-2 p {
+        font-size: 14px;
+    }
+
+
     .navigation {
         padding: 10px 100px;
     }
