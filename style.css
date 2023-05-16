@@ -266,6 +266,11 @@ p {
 }
 
 @media (max-width: 992px) {
+    .landing-2 .text-2 {
+        width: 100%;
+    }
+
+
     .navigation {
         padding: 10px 100px;
     }
